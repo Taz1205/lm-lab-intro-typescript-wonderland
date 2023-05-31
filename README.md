@@ -58,7 +58,7 @@ Just as Alice had her DRINKME potions 🧉, you have some FIXME indicators - the
 
 The first looks pretty clear. We're calling `failImmediately` as our callback function, which doesn't sound great. Looking at the other functions, perhaps `startAdventure` would be more appropriate?
 
-👉 Replace the call to `failImmediately` with `startAdventure` in the "What's your name?" prompt in `index.ts`
+👉 Replace the call to `failImmediately` with `npm ints` in the "What's your name?" prompt in `index.ts`
 
 Now entering a name makes some progress... but what's this about an entry code?!
 
